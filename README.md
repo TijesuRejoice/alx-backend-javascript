@@ -1,1 +1,1 @@
-This folder contains files about backend javascript use
+This directory contains files on NodeJs basics
